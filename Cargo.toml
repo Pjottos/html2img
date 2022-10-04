@@ -3,4 +3,11 @@ name = "html2img"
 version = "0.0.0"
 edition = "2021"
 
+license = "MPL-2.0"
+description = "Render offline HTML to an image"
+homepage = "https://github.com/Pjottos/html2img"
+documentation = "https://docs.rs/html2img"
+repository = "https://github.com/Pjottos/html2img"
+readme = "README.md"
+
 [dependencies]
